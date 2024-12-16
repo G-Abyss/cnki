@@ -45,6 +45,13 @@ class action:
         )
         box.send_keys(content)
     
+    #清空动作    
+    def clear(self,type,key):
+        box = WebDriverWait(self.driver, 100).until(
+        EC.presence_of_element_located((type, key))
+        )
+        box.clear()
+    
     #悬停动作
     def chains(self,type,key):   
         target =  WebDriverWait(self.driver, 10).until(

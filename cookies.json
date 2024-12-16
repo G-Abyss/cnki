@@ -1,0 +1,116 @@
+[
+    {
+        "domain": ".lib.cuhk.edu.hk",
+        "httpOnly": false,
+        "name": "E_GROUP_NAME",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "\"Chinese University of Hong Kong\""
+    },
+    {
+        "domain": ".lib.cuhk.edu.hk",
+        "httpOnly": false,
+        "name": "CUSTOMER",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "\"CHINESE UNIVERSITY OF HONG KONG\""
+    },
+    {
+        "domain": ".lib.cuhk.edu.hk",
+        "httpOnly": false,
+        "name": "SID",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "\"EUW1ED0C42APP3HAVt1YtYpk7oHj2\""
+    },
+    {
+        "domain": "www-webofscience-com.easyaccess1.lib.cuhk.edu.hk",
+        "expiry": 1727789030,
+        "httpOnly": false,
+        "name": "group",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "group-g"
+    },
+    {
+        "domain": ".lib.cuhk.edu.hk",
+        "expiry": 1727186050,
+        "httpOnly": false,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "wsbE0eK4zUIm1Ki4UgUNXOj728K2T.SeVacUhP1zIsk-1727184252-1.0.1.1-UmiOCH_NrkW1koVAOShTCDbmTIpcdCjKcmAPG01nNCWSBghoLBBZ_Qo6w8APgjnLkIoel3ZsNsyb_DrmjR8Vsg"
+    },
+    {
+        "domain": ".easyaccess1.lib.cuhk.edu.hk",
+        "httpOnly": true,
+        "name": "ezproxyn",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "http://easyaccess1.lib.cuhk.edu.hk,NLK1W5uYyzAGTV8"
+    },
+    {
+        "domain": "www-webofscience-com.easyaccess1.lib.cuhk.edu.hk",
+        "expiry": 1727789030,
+        "httpOnly": false,
+        "name": "dotmatics.elementalKey",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "SLsLWlMhrHnTjDerSrlG"
+    },
+    {
+        "domain": "www-webofscience-com.easyaccess1.lib.cuhk.edu.hk",
+        "expiry": 1761744254,
+        "httpOnly": false,
+        "name": "_sp_id.223d",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "b8ed6d88-8398-431a-a80b-03a33f241190.1727184245.1.1727184254..417d5d51-0d2c-4ad8-84d0-16a9b86cc781..407069ba-fc11-46e3-9216-3a40733aac31.1727184254426.1"
+    },
+    {
+        "domain": "www-webofscience-com.easyaccess1.lib.cuhk.edu.hk",
+        "expiry": 1727186054,
+        "httpOnly": false,
+        "name": "_sp_ses.223d",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "*"
+    },
+    {
+        "domain": ".easyaccess1.lib.cuhk.edu.hk",
+        "httpOnly": true,
+        "name": "ezproxyl",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "http://easyaccess1.lib.cuhk.edu.hk,NLK1W5uYyzAGTV8"
+    },
+    {
+        "domain": "www-webofscience-com.easyaccess1.lib.cuhk.edu.hk",
+        "expiry": 1727789050,
+        "httpOnly": true,
+        "name": "WOSSID",
+        "path": "/wos",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "EUW1ED0C42APP3HAVt1YtYpk7oHj2"
+    },
+    {
+        "domain": ".easyaccess1.lib.cuhk.edu.hk",
+        "httpOnly": false,
+        "name": "ezproxy",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "http://easyaccess1.lib.cuhk.edu.hk,NLK1W5uYyzAGTV8"
+    }
+]
